@@ -1,0 +1,75 @@
+/** ----- Начало Стилей в блоке Header ----- **/
+.header__title {
+    color: red;
+}
+
+.header__subtitle {
+    max-width: 100px;
+    margin-bottom: 100px;
+    background: blue;
+    color: white;
+}
+
+.header__description-text--red {
+    color: red;
+}
+/** ----- Конец Стилей в блоке Header ----- **/
+
+/** ----- Начало Стилей в блоке Next ----- **/
+.next__title {
+    padding: 2px 4px;
+    background: green;
+    color: white;
+}
+/** ----- Конец Стилей в блоке Next ----- **/
+
+/** ----- Начало Стилей в блоке i-can ----- **/
+.i-can__title {
+    padding: 40px;
+    background: green;
+    color: white;
+}
+
+.i-can__form {
+    max-width: 684px;
+}
+
+.i-can__form-title {
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.i-can__form-input {
+    border: 1px solid lightgrey;
+    color: grey;
+}
+
+.i-can__form-input::placeholder {
+    color: grey;
+}
+
+.i-can__form-button {
+    border: 1px solid lightgrey;
+    cursor: pointer;
+}
+/** ----- Конец Стилей в блоке i-can ----- **/
+
+/** ----- Начало Стилей в блоке create ----- **/
+.create__text {
+    margin-bottom: 20px;
+}
+
+.create__list-item {
+    font-size: 22px;
+    border: 1px solid black;
+}
+/** ----- Конец Стилей в блоке create ----- **/
+
+/** ----- Начало Стилей в блоке Footer ----- **/
+.footer__title {
+    padding: 2px 4px;
+    background: green;
+    color: white;
+}
+/** ----- Конец Стилей в блоке Footer ----- **/
